@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^3.1.0"
+    "typescript": "^6.0.3",
+    "vite": "^3.1.0",
+    "vitest": "^4.1.5"
   },
   "dependencies": {
     "imask": "^6.4.3"
